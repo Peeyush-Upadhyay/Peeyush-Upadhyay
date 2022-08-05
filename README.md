@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Peeyush-Upadhyay
+- 🌱 I’m currently learning skills to make creative dashboards and Dsa problem solving skills.
 - 📫 Connect me through Linkedln https://www.linkedin.com/in/piyush-upadhyay-118128218
 
 <!---
