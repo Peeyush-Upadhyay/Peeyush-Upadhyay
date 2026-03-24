@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Peeyush-Upadhyay
-- 🌱 I’m currently learning skills to make creative dashboards and Dsa problem solving skills.
-- 📫 Connect me through Linkedln https://www.linkedin.com/in/piyush-upadhyay-118128218
+# Hi, I'm Piyush Upadhyay 👋
 
-<!---
-Peeyush-Upadhyay/Peeyush-Upadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Software Engineer with 3 years of experience building production-grade distributed systems.
+Currently working at Trianz on cloud migration platforms using Python, FastAPI, and AWS.
+
+## 🔧 Tech Stack
+Python • FastAPI • Django • Celery • PostgreSQL • Redis • AWS • Docker
+
+## 🚀 Featured Project
+**CloudPulse** — Job scheduler & system health monitor built with Django REST Framework, Celery, and Redis.
+Live: https://cloudpulse-production.up.railway.app | Code: https://github.com/Peeyush-Upadhyay/cloudpulse
+
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/piyush-upadhyay-118128218
+Email: piyushu58@gmail.com
